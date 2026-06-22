@@ -1,10 +1,15 @@
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300" align="right"/>
+Hi there! I'm Yeon Seo Nam 👋
 
-# Hi there! I'm Yeon Seo Nam 🤹‍♀️
+🎓 Chungbuk National University, Department of Software
 
-🎓 Chungbuk National University, Department of Software  
-🦁 LikeLion CBNU 14th (멋쟁이사자처럼 충북대 14기)  
-💻 Studying Backend · AI · Infrastructure  
+🦁 LikeLion 14th (멋쟁이사자처럼 14기)
+
+💻 Studying Backend · AI · Infrastructure
+
+🔥 Always the first to jump in and get things started!
+
+<br clear="right"/>
 
 ---
 
