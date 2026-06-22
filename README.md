@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
+
 # Hi there! I'm Yeon Seo Nam 👋
 
 🎓 Chungbuk National University, Department of Software
