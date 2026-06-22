@@ -9,8 +9,6 @@ Hi there! I'm Yeon Seo Nam 👋
 
 🔥 Always the first to jump in and get things started!
 
-<br clear="right"/>
-
 ---
 
 ## 🛠 Tech Stack
