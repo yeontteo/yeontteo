@@ -10,8 +10,6 @@
 
 💻 Studying Backend · AI · Infrastructure
 
-🔥 Always the first to jump in and get things started!
-
 ---
 
 ## 🛠 Tech Stack
