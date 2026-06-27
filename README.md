@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 
-# Hi there! I'm Yeon Seo Nam 👋
+# Hi there! I'm Yeonseo 👋
 
 🎓 Chungbuk National University, Department of Software
 
